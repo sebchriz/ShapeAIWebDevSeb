@@ -24,5 +24,5 @@ href=
 <li><a href="https://github.com/shapeai">GitHub</a>
   
   Hey Everyone this is the screenshot of the portfolio I made:
-![link](https://drive.google.com/file/d/1uAWxnGr1MeD_bNC0kG-gPu3ViMAl35fQ/view?usp=sharing)
+[link](https://drive.google.com/file/d/1uAWxnGr1MeD_bNC0kG-gPu3ViMAl35fQ/view?usp=sharing)
 

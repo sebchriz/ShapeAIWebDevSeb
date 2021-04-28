@@ -22,3 +22,6 @@ or follow SHAPEAI on:
 href=
 "https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTube</a>
 <li><a href="https://github.com/shapeai">GitHub</a>
+  
+  Hey Everyone this is the screenshot of the portfolio I made:
+  
